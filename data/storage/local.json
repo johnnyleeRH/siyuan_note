@@ -1,0 +1,51 @@
+{
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 1,
+      "focusId": "20240508000057-x1ale7e",
+      "focusStart": 1,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 0,
+      "startId": "20210528115012-vst5lwt"
+    },
+    "20200922102318-oz84yu3": {
+      "endId": "20221114172704-ke0r60p",
+      "focusEnd": 0,
+      "focusId": "20230418093311-dtukze4",
+      "focusStart": 0,
+      "rootId": "20200922102318-oz84yu3",
+      "scrollTop": 0,
+      "startId": "20230418093311-dtukze4"
+    },
+    "20241124182833-kovwzpx": {
+      "endId": "20241124183340-fnmxqjs",
+      "focusEnd": 0,
+      "focusId": "20241124183340-fnmxqjs",
+      "focusStart": 0,
+      "rootId": "20241124182833-kovwzpx",
+      "scrollTop": 0,
+      "startId": "20241124182941-nmmz0rj"
+    },
+    "20241124182854-cl3o241": {
+      "endId": "20241124182854-h00bigm",
+      "rootId": "20241124182854-cl3o241",
+      "scrollTop": 0,
+      "startId": "20241124182854-h00bigm"
+    },
+    "20241124183048-jaxuhn5": {
+      "endId": "20241124183048-kyx3dpn",
+      "rootId": "20241124183048-jaxuhn5",
+      "scrollTop": 0,
+      "startId": "20241124183048-kyx3dpn"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20241124172629-nncgqaq",
+      "openPaths": [
+        "/20241124183550-gcgis65.sy"
+      ]
+    }
+  ]
+}
