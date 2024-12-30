@@ -1,4 +1,12 @@
 {
+  "local-dialogposition": {
+    "dialog-setting": {
+      "height": 821,
+      "left": 128,
+      "top": 45,
+      "width": 1280
+    }
+  },
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
@@ -19,9 +27,9 @@
       "startId": "20230418093311-dtukze4"
     },
     "20241124182833-kovwzpx": {
-      "endId": "20241124183340-fnmxqjs",
+      "endId": "20241217090025-ad1w79k",
       "focusEnd": 0,
-      "focusId": "20241124183340-fnmxqjs",
+      "focusId": "20241217090025-ad1w79k",
       "focusStart": 0,
       "rootId": "20241124182833-kovwzpx",
       "scrollTop": 0,
@@ -34,17 +42,209 @@
       "startId": "20241124182854-h00bigm"
     },
     "20241124183048-jaxuhn5": {
-      "endId": "20241124183048-kyx3dpn",
+      "endId": "20241124183809-hpm6df5",
       "rootId": "20241124183048-jaxuhn5",
       "scrollTop": 0,
-      "startId": "20241124183048-kyx3dpn"
+      "startId": "20241124183732-nlk3ejm"
+    },
+    "20241124183550-gcgis65": {
+      "endId": "20241124193032-3rl23h3",
+      "rootId": "20241124183550-gcgis65",
+      "scrollTop": 0,
+      "startId": "20241124193031-4awz48e"
+    },
+    "20241217093623-ezy8c9z": {
+      "endId": "20241217131041-ceqd6xh",
+      "focusEnd": 0,
+      "focusId": "20241217093623-nmh7wzd",
+      "focusStart": 0,
+      "rootId": "20241217093623-ezy8c9z",
+      "scrollTop": 0,
+      "startId": "20241217093623-nmh7wzd"
+    },
+    "20241217192701-cexlgme": {
+      "endId": "20241223131310-wv1yeke",
+      "focusEnd": 4,
+      "focusId": "20241217192732-bdvbh15",
+      "focusStart": 4,
+      "rootId": "20241217192701-cexlgme",
+      "scrollTop": 0,
+      "startId": "20241217192701-o5j6npn"
+    },
+    "20241217195007-8gznpvu": {
+      "endId": "20241225224555-c6m7dxd",
+      "focusEnd": 291,
+      "focusId": "20241229132907-up6962l",
+      "focusStart": 291,
+      "rootId": "20241217195007-8gznpvu",
+      "scrollTop": 665.5999755859375,
+      "startId": "20241217195007-89xxqh6"
+    },
+    "20241219084837-puu4j2k": {
+      "endId": "20241219084901-o0skwjq",
+      "focusEnd": 42,
+      "focusId": "20241219151131-9te70xh",
+      "focusStart": 42,
+      "rootId": "20241219084837-puu4j2k",
+      "scrollTop": 0,
+      "startId": "20241219084837-z27ulj8"
+    },
+    "20241220095223-avm56hc": {
+      "endId": "20241220095410-pamj44i",
+      "focusEnd": 0,
+      "focusId": "20241220095410-pamj44i",
+      "focusStart": 0,
+      "rootId": "20241220095223-avm56hc",
+      "scrollTop": 0,
+      "startId": "20241220095230-hfizehx"
+    },
+    "20241220132321-spklfse": {
+      "endId": "20241220132441-sj8dfa9",
+      "focusEnd": 4,
+      "focusId": "20241220163448-l8xa5e9",
+      "focusStart": 4,
+      "rootId": "20241220132321-spklfse",
+      "scrollTop": 0,
+      "startId": "20241220132321-9g2riwi"
+    },
+    "20241220170504-0ysa1ty": {
+      "endId": "20241221105610-x1slstf",
+      "focusEnd": 15,
+      "focusId": "20241221110754-m9ybfll",
+      "focusStart": 15,
+      "rootId": "20241220170504-0ysa1ty",
+      "scrollTop": 300,
+      "startId": "20241220170504-jccnv22"
+    },
+    "20241221112345-khmx0ws": {
+      "endId": "20241222160333-s6lbe99",
+      "focusEnd": 0,
+      "focusId": "20241222160333-s6lbe99",
+      "focusStart": 0,
+      "rootId": "20241221112345-khmx0ws",
+      "scrollTop": 0,
+      "startId": "20241221112345-k5w157z"
+    },
+    "20241223142148-8e6okn3": {
+      "endId": "20241227141103-rlhdsez",
+      "focusEnd": 0,
+      "focusId": "20241227141103-rlhdsez",
+      "focusStart": 0,
+      "rootId": "20241223142148-8e6okn3",
+      "scrollTop": 0,
+      "startId": "20241223142148-r2cmww9"
+    },
+    "20241223142222-j8jlyqo": {
+      "endId": "20241224140757-9zhdizi",
+      "focusEnd": 5,
+      "focusId": "20241223220837-ucstlav",
+      "focusStart": 5,
+      "rootId": "20241223142222-j8jlyqo",
+      "scrollTop": 276,
+      "startId": "20241223142222-1wu2try"
+    },
+    "20241223162649-w3iew6g": {
+      "endId": "20241223162830-kiudp65",
+      "focusEnd": 0,
+      "focusId": "20241223162830-kiudp65",
+      "focusStart": 0,
+      "rootId": "20241223162649-w3iew6g",
+      "scrollTop": 0,
+      "startId": "20241223162649-7ut9imz"
+    },
+    "20241224131451-nieztbn": {
+      "endId": "20241224131739-l1sax29",
+      "focusEnd": 0,
+      "focusId": "20241224131739-l1sax29",
+      "focusStart": 0,
+      "rootId": "20241224131451-nieztbn",
+      "scrollTop": 0,
+      "startId": "20241224131451-qft8nzc"
+    },
+    "20241224161922-vbxmsty": {
+      "endId": "20241224162021-ofykbsl",
+      "focusEnd": 0,
+      "focusId": "20241224162021-ofykbsl",
+      "focusStart": 0,
+      "rootId": "20241224161922-vbxmsty",
+      "scrollTop": 0,
+      "startId": "20241224162003-s1vqtvv"
+    },
+    "20241225140901-3jttumd": {
+      "endId": "20241227163553-n4bm8jg",
+      "focusEnd": 0,
+      "focusId": "20241227163553-n4bm8jg",
+      "focusStart": 0,
+      "rootId": "20241225140901-3jttumd",
+      "scrollTop": 0,
+      "startId": "20241225140901-8taxo9d"
+    },
+    "20241227083613-q7dcu85": {
+      "endId": "20241227083642-rp9pav2",
+      "focusEnd": 35,
+      "focusId": "20241227084331-r8r37tx",
+      "focusStart": 35,
+      "rootId": "20241227083613-q7dcu85",
+      "scrollTop": 0,
+      "startId": "20241227083613-txkx08e"
+    },
+    "20241227151941-qpd0ton": {
+      "endId": "20241227152014-1f1mehy",
+      "focusEnd": 0,
+      "focusId": "20241227152014-1f1mehy",
+      "focusStart": 0,
+      "rootId": "20241227151941-qpd0ton",
+      "scrollTop": 0,
+      "startId": "20241227151941-1utnf4m"
+    },
+    "20241227160704-en3zv5f": {
+      "endId": "20241227162227-mf5y5mk",
+      "focusEnd": 381,
+      "focusId": "20241227160737-y6nwem0",
+      "focusStart": 381,
+      "rootId": "20241227160704-en3zv5f",
+      "scrollTop": 300,
+      "startId": "20241227160737-y6nwem0"
+    },
+    "20241228000549-c4okrjp": {
+      "endId": "20241228000549-dkxtflw",
+      "focusEnd": 0,
+      "focusId": "20241228000549-dkxtflw",
+      "focusStart": 0,
+      "rootId": "20241228000549-c4okrjp",
+      "scrollTop": 0,
+      "startId": "20241228000549-dkxtflw"
     }
   },
   "local-filespaths": [
     {
-      "notebookId": "20241124172629-nncgqaq",
+      "notebookId": "20241217195004-npxo4a8",
       "openPaths": [
-        "/20241124183550-gcgis65.sy"
+        "/20241223142222-j8jlyqo.sy"
+      ]
+    },
+    {
+      "notebookId": "20241220170450-k5et2a7",
+      "openPaths": [
+        "/20241221112345-khmx0ws.sy"
+      ]
+    },
+    {
+      "notebookId": "20241223162646-1iyl4qg",
+      "openPaths": [
+        "/20241227151941-qpd0ton.sy"
+      ]
+    },
+    {
+      "notebookId": "20241224131445-dvxto01",
+      "openPaths": [
+        "/20241225140901-3jttumd.sy"
+      ]
+    },
+    {
+      "notebookId": "20241227160431-u3p3ur5",
+      "openPaths": [
+        "/20241228000549-c4okrjp.sy"
       ]
     }
   ]

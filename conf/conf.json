@@ -150,7 +150,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "/home/lee/github/siyuan_note/temp/pandoc/bin/pandoc",
+    "pandocBin": "D:\\github\\siyuan_note\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
     "pdfFooter": "%page / %pages",
     "docxTemplate": "",
@@ -245,50 +245,125 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1732444529215",
+                      "activeTime": "1735525640380",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241124182833-kovwzpx",
+                        "blockId": "20241225140901-3jttumd",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20241124172629-nncgqaq",
-                        "rootId": "20241124182833-kovwzpx"
+                        "notebookId": "20241224131445-dvxto01",
+                        "rootId": "20241225140901-3jttumd"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "excalidraw测试"
+                      "title": "长城汽车"
                     },
                     {
-                      "activeTime": "1732444550448",
+                      "activeTime": "1735525745854",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241124183550-gcgis65",
+                        "blockId": "20241223142148-8e6okn3",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20241124172629-nncgqaq",
-                        "rootId": "20241124183550-gcgis65"
+                        "notebookId": "20241217195004-npxo4a8",
+                        "rootId": "20241223142148-8e6okn3"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "未命名"
+                      "title": "CoinTrader执行流程"
+                    },
+                    {
+                      "activeTime": "1735525748607",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241223142222-j8jlyqo",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241217195004-npxo4a8",
+                        "rootId": "20241223142222-j8jlyqo"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "SHFE极速"
                     },
                     {
                       "active": true,
-                      "activeTime": "1732444552321",
+                      "activeTime": "1735525751330",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241124183048-jaxuhn5",
+                        "blockId": "20241217195007-8gznpvu",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20241124172629-nncgqaq",
-                        "rootId": "20241124183048-jaxuhn5"
+                        "notebookId": "20241217195004-npxo4a8",
+                        "rootId": "20241217195007-8gznpvu"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "未命名"
+                      "title": "CoinTrader"
+                    },
+                    {
+                      "activeTime": "1735525743039",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241227151941-qpd0ton",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241223162646-1iyl4qg",
+                        "rootId": "20241227151941-qpd0ton"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "预测专业业务规划"
+                    },
+                    {
+                      "activeTime": "1735525739154",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241228000549-c4okrjp",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241227160431-u3p3ur5",
+                        "rootId": "20241228000549-c4okrjp"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "统计学习方法概论"
+                    },
+                    {
+                      "activeTime": "1735525741071",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241224161922-vbxmsty",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241223162646-1iyl4qg",
+                        "rootId": "20241224161922-vbxmsty"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "李宏毅 一天搞懂深度学习"
+                    },
+                    {
+                      "activeTime": "1735525742273",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241227083613-q7dcu85",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20241223162646-1iyl4qg",
+                        "rootId": "20241227083613-q7dcu85"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "vLLM：大模型推理"
                     }
                   ],
                   "height": "",
@@ -464,7 +539,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a3c58965d5b5f4784b21cafd113b752e3a2f9c51f92252cbfe7d1f0fbee13bdf8b562ac6f9c32cc8423600d4b29e38a9c4e1c2ea980e2c3f6f3a0b655a5a76025b9ca7daa54d1918e536a2c0282db65dc2fcf6a979bf3ef9a0791395b5b2beb7751c92fd64e8042a6e1cc3b6c0864ff72517e27dd295a6af0fad42b2210e81f1bfe520a7df1b1e6f38190fc7566878c11f3726ea9bde758418e7156998e4ace23b381fbcf8284a246a594ef4d30c6db9d44c09b58a6d69611fe883284b8efa6e0508fefe2abfe846fb71b9885d193c7612aa49902809745107408c9f73a4ce52a733779362af98d5867c2357566b51f31e3fca589c48c5c7c879ebaae1192c488100b22e5e5abf07045f90eb7d612369012de0ad9b523932a05ae96948acaa470304661337776252b92cb3cef062cf49db2347cec9f495c13a148a23532af17c63ae899c3fca54c2de117d0545773b957ea38aa5869e47167e1e837cfe4043a458dad27652bfa71ef5d328ae6790a34776ba8fc8434c1fee80b079de7eca4d7400c9c0dfffd57133b8ec5001093762f90c4a6bad98a9b8d45f209a50bee9f642365b5fdfd49be5a237147742b328d7781c051cf9fd77382dcb0ea3e4e69a6463d9e5ec3045744dc44275d8c8f9d3ca56c3f4e53197b9affba1b840dfbe88254060c797326505b84dbc45e30bb1d01f077c35fdba8c9eb8fefc3c2e8a44a6d057e9f3270ee2d4e1366690eb54385e3bef075072f7c4a33bb5f8902d436dfd2e7b84abf39b2bcff7d69b023303139b3fcad12b3e3b35153bd25256fbe666194d2ee661a71235e0a31f18d81f94230cff939419f710503cdb3be0ff81bc3adf314750488d0ba990efcddbb3ee3dd73562a89ce7706fee802ca917b7e7baf8a396229b15c0b645f8823a72e2c7557460880917b6eaf962e9531198b0e4dbbabcbaa9792f2d8171291623d0a73383f21e850ec4918fb4eae8e3526091cb930b469ace4cf1dd807f5fd8975dfbff5717436e9853ca7ca7973d4adebb0535f2194cc9fa04354d0abb2bd0fa55fbfdf0659febd6293d5c9c6ca22f9603079c68df449f39884822335da90242c7cb656324d257d550fbd63cd9b1536f58931bc50408346df4220ac16773a58b39eb739bd3db929de3398bcf4ff455e252b78dc7bb8db244c127f6433655a18ad379f4d8c54ff7a4d1ed02b14c994e63c4e93faf0f8429d6fe437255fa68e2b7c1e3902dccf57fb372472bfd4791c6edf82b2c4c0f4c2e7362068dfd252009f8a3b50a502059c88b6c522795739930b610453878ac122cadccad154c23e090e21f9af2bae0001b82ab73750ecd68db06c17da3104cb812e9e5c5e1284ded6fbd943a8d8928fcac996f770c6fa7a7ddb9215563759e43da1b28caf48ebe0ad0d1a80736582ad7d8ed66598932f498553cbd780969218a2fc74187fa8c3449141655db472e0cf1dd385cfa0e21ebe012791a3d4b5d37079dd4141c1b0ca76b92128d0d880a6bd880951dd63b974fbb56c6b71b8b2c5af02a1a46d239384abd9891e672c9017e8dc7399e8619da90252693a07e55035dec62008a8d1b35eed23d8ef1edfd4dab277c58d7620698e6649b29a2a33ac25a756a94eeb8a548825e22890d09e5fd966a92e814f88a4dca06709e56f82c8e8d3c380a4f7b8e0b75662145243a5315067e85baba6dbd414aa1bc7ed4943f5c89369cb4816db7eb0aed0fb6147c800360adae05c2c25ee25a8a307557c4cf031d2fc872a2c9033d47b884fa5394d513e505c37afc2f6197434c195527e906056b7ff224f7b870d05bd8d5585b6e5957382ec891e45d62b6c58fb3af257f1621640c1106ca0bc6fcf8bd71782bde5f6721e0e9c8bb02eacb7d0d421a45ed4b41fa3da98d4645c7f5875b7333a8c883e4dd1e0c04e1406c5ad36a0365efeabadec3b20a59737864a5b5a515ead28d1e99d2e8f9bf3f676cf81742fa4bbeaadd1bab91f2f0bca43fe3d395eba54c4017c8dd02254e4a0c3c0b45ec93ec2ee7c30577dcaa8aafa269b313618c9e6ea0e98d8613b4c2b61341eb61ece392ecfb219f1075eaf1aefb04578f1aa36adf3c1a475fa3f6082f103c71ab654bc7f27770bab0c00ee0655bddbac62586446986ce5e3d7088d74de9b0f991771356dd0655906bf88e5cea6afe4988d1b6fe420ab5fb0e6563d64ef3bb0a1552240de29f4c1b0ef2fd4829e651b5582d597638c711502f6f169463ae21ce8ce5ef37ac655eec1da731be5aaabe3c4de1a8719be4f2c353522e9d85c90627aede4de6089860e8f3f19b9a9cabff7b1e80572f8569d849f4233768c428cd6d02d303429c3d1b9c3be926392e972b170dba93d02990460d7e3cbf01284a34d4d38331bc7255b4f1c84204c27cab9e500a13b06b5293ed397da15938b1488c499cd7dbae017de6ea4ab48456c3ae4a44df888bbb892a8d036eb2974b431afadc7ba1a096419aa060e946970b02053f4363b159d65bc77c74d92c672331a153ca3fb7d923d284069074f554cb6e1aa5370dd402815f7ef6bb442df31152581494bd4fd316bdd2a873a2fd79381618caced7b42e04420563b1b09ae3913aad15916bb016a77e44f013c549eccae3124faa2943b7aaf137ac478b289b05eea378f782307dea7c71957a280bc4ebf762e3e4310fee99df4026c91085ddff067bc427e2051d19dd3ecac919f4c9ebfe21044247a1cb72755fc6240968fb440f9062d6d8ff7427b3554573b84696bf42dba4cc7b0db3567c93f42acd3ed5a02382c8343ee742086a993118af3a546086d004aba3b9c07627ba37b040e64bb78f04987dcb68b2926fac794be04baff5948070815ea41737f17ae42552bb9c7bf7b1340c396df1dc963e22d65578c613571de3e477e6fc1a700321a7b781e7a3da24d65f2e4c8ddcd42241e4026f3f40e63529344292dfc36c402c081f8c29854acb065ce89b4e7499ff3bc30fe0b35bf42d9b2dce43d2ed138b5f2a7716160024ee10ff330160e69b3de00124d887f40d4780eba4c198793bd54b0dcd781620baec1d4f70853e59febc9a599803e67f21256cdca09099db46fb464cbf186b90739dd4023a20cb1c6ca2b9e986db43a564f6448e2cbe46b2f93993ce0ccd5d589d83b77b6bf3a5364b2336110f3d3a3443cb640802d00826301dfadcadffc0d3553c77dd325b9f14c9793a3ad1200d741a53556a30338380ea0f405ad199f2fa01e7cc5c4b3d934f95d0620c377ff069223690f5268323b1e4c59c4b4c7e5df162d6a87a17a2c64cde2c801e142956def",
+  "userData": "d716d5d6812229ac440f08261821941a3c58965d5b5f4784b21cafd113b752e3a2f9c51f92252cbfe7d1f0fbee13bdf8b562ac6f9c32cc8423600d4b29e38a9c4e1c2ea980e2c3f6f3a0b655a5a76025b9ca7daa54d1918e536a2c0282db65dc2fcf6a979bf3ef9a0791395b5b2beb7751c92fd64e8042a6e1cc3b6c0864ff72517e27dd295a6af0fad42b2210e81f1bfe520a7df1b1e6f38190fc7566878c11f3726ea9bde758418e7156998e4ace23b381fbcf8284a246a594ef4d30c6db9d44c09b58a6d69611fe883284b8efa6e0508fefe2abfe846fb71b9885d193c7612aa49902809745107408c9f73a4ce52a733779362af98d5867c2357566b51f31e3fca589c48c5c7c879ebaae1192c488100b22e5e5abf07045f90eb7d612369012de0ad9b523932a05ae96948acaa470304661337776252b92cb3cef062cf49db2347cec9f495c13a148a23532af17c63ae899c3fca54c2de117d0545773b957ea38aa5869e47167e1e837cfe4043a458dad27652bfa71ef5d328ae6790a34776ba8fc8434c1fee80b079de7eca4d7400c9c0dfffd57133b8ec5001093762f90c4a6bad98a9b8d45f209a50bee9f642365b5fdfd49be5a237147742b328d7781c051cf9fd77382dcb0ea3e4e69a6463d9e5ec3045744dc44275d8c8f9d3ca56c3f4e53197b9affba1b840dfbe88254060c797326505b84dbc45e30bb1d01f077c35fdba8c9eb8fefc3c2e8a44a6d057e9f3270ee2d4e1366690eb54385e3bef075072f7c4a33bb5f8902d436dfd2e7b84abf39b2bcff7d69b023303139b3fcad12b3e3b35153bd25256fbe666194d2ee80c679702066b9894a4dbbb9c4e0c9a4522a7ce5b74c54dc787d08ef9057a1c3004aa8c5429d8afb2ab2eaa6dc73f2fbd446af68d571474649d50752e1018f1a7868c65afc10118f738a183d6503cbce8d68468ca247a43f1862a6d3e89a285956cd71383fa159b80f78248162ef583312026ce0007450a12632b433894f5998f775fe219e0b6f4ee741dfc80aebc3d07bfcd18a008db734fb8f7954744719580c2d664fc05708eed87e3775f8fdc56be5c3ddc84989566475f6da24794aeb2c4ab6de04e70f81a2fbad73e95af1f9766692575142d85bd889599b16cf3b5cbfcd7e3c73846a8679b3b4ce9032049f63160d6b6f120caed7909b6559b36b0996ed2b983d9650883567d9a8d58bac470a7bec898d17e9364a48225344f6a5899d305440ccb735e6e89c45ceb576d34755d812fe38ec0bebbee04f2edf8badc6a2525fc769503195578fd68c122cec02ecb4abeee3abe0cdba61b1b9ccfc32d2379cc88f5b824a9757d68964f114b9c8a0442834c1788d1f0a096da9b7147355eba48375a69c81a4dcc046f9959a19874c41e0c0e4f70bc7762454c110ef5592cc09394192055387715f2d6ccfb813071255bef8f4d77934d625b8fcef01308caecfee62ffbf89537191d891323abc34bb27d819a4392ec2634c4e6134e23793778e7e3e53c4440ecb32af98032911a534bf75ff56edb88cd7ba2adc28ba40d39e1e17c16f3a901106aa2ad4a685c8ee34a28e65277420fc83888ec3f39015d3b0c27c59d5bbdc5c966df42d2cb3082884c220143502ffa1ccde96ad27842d2757fd78b4a8616319a003d4aa58f569b87f9fcb983b1d619b637777aefa4d9726e08d573a82e1fd59143107ae3096ebe05f86f03115efa4c615ab28dede69a44a4eec7217413bd163fd612ab274798d598311a1c4041a55eaecf75e925f59b160008998ba0d948d9b27896c2f5b147e111a426f0c99f40e338a129fb3225eef99b8c39f47baf30c9e947f4c17bb080b1debb9c70cde1293bb4b7d44ffcc074c8d204a295f8fb1f3087a165ddde96cdb6b2ddef7ca70d9ce43f63bbdf7c589a66a7e265d74e0658b51e977f20b9febbb21af268e2d3b98f2274908aab86cdc5c9f799a21093a070c5ead12f55077ebf0e8e96e54beae4301513b427088f8fd2148f6bba33634270b685e6df7c8e0567e2fde30401ed7fc3332c400935bd639f7d51857f5cd6afb97a3310001f69c27435f20f2d62ea17c8f1f459a2e9fb8cf0b958ef3c45df7862d8211573024fadc2bd28370476ecab96bb5d45a80877c4424b623d1fe3ea4057e64854429b353933a28c82b85eab39f9c2db7e8c0467ed15d1c9d21e560ea7f556cdfed3676fbb8efe629cc840afac092d86b4c6930f8dda73bde978513939be7e12c607f023b6cb822b218b392c3d807f3243d2a8ff8456d43eb74c9f831d0624eacb2fc4e256f490d5c5f58a4bbb1f650bff14334ee3294e155c6e830ab7f15a1406e6f5468feda7ba12164ad3f9fd752415374c5b895ac9519834a6d08f48c2cdf9b3f25ac54e244c62d7a4b97c0a5e6f487956ea67679a3ccd9d58f5e8e2652de6baa30b2a26311d70409487b36f1a06d55da8d2344344d8f6e041d7d77d511d1fd2f40a7b9092c71c313609ff53173e6f26672fd584684bde04d6ba7db988d96c6f15cb262dd5078ed32ee9145e563e96c12cad45f7d3639bf2e8ea47c7d66ae8398b49020104bc5cbaa0bf9881c9c7c69c2b5fbc214167786ab2429b4aa9ea8567631c1fcd3a1335efe0429a38f8bee96723df1ad4f52bedcdd40897d6b8b1cff4a76429cda8de70622f0c6b39b5abc8306ca575672fe6bf95b3b5f74e8709aa021fe186f34f2f1acd32203328bf7784762c38c061d4368fc09d9309b47ff7f39a7f1dbaff969b33532079563f68e539f8c8e06f676271cec834ef9eec490286162959edba0444dc13d129ea47c3292690d403f1205386d4c98ea1f61a8e6970042f551d7efbe53f696de2d00d91dc4628786ad0c5754ac1dcbf9ebdc8873209dbd85865f1fcf450bc678b8bb813cd22f61fa537688657123f5efee944f2f9622b515b482e82613b9b208471288396bbbfc3ae0f4930a4cef931882bffa3af7281a5209017588adbff521dadc62562c6134c8ce89e16970b106b6038d01f3afd077c3624cddfc91d55f221a5f676c58b4e87437c3b6903bca91d2c6f6694012f10202b362220874e5cb383abc3f77a7bf4701d41ae6b868b08d1605fea7296b957e17dde8938cf53ddab57469c55948b49358faaf8e57afb3027e0bab858e1f4daa501a6e23299bcea3ecce6ae79089f76a9f80850ded65d9bc6c39a1706e583585b1053983ce7c64e3b6e5e955185353cdb854442c1a13d0b65b568e794c75da6329cb1f3a5611",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -472,26 +547,33 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.0.104",
-    "172.17.0.1",
+    "192.168.56.1",
+    "192.168.43.138",
+    "169.254.79.210",
+    "169.254.183.29",
     "[::1]",
-    "[fe80::8136:13ab:73eb:aca7]"
+    "[2409:8924:e32:26ba:5053:c1a0:dd6b:f1ea]",
+    "[2409:8924:e32:26ba:ac40:5977:6191:dd76]",
+    "[fe80::91ac:b3e0:1611:8875]",
+    "[fe80::6878:6f37:64b6:bd09]",
+    "[fe80::9e87:bf25:cfdc:a7af]",
+    "[fe80::7645:2e59:fc27:7bff]"
   ],
   "accessAuthCode": "",
   "system": {
-    "id": "812c8b794584488cb7ce6ef76074dd66",
-    "name": "lee",
-    "kernelVersion": "3.1.13",
-    "os": "linux",
-    "osPlatform": "Kylin",
+    "id": "9663f9e9-d773-458e-a107-5ee81be86af1",
+    "name": "LAPTOP-D9OB2PE4",
+    "kernelVersion": "3.1.15",
+    "os": "windows",
+    "osPlatform": "Microsoft Windows 11 Home China",
     "container": "std",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "/home/lee",
-    "workspaceDir": "/home/lee/github/siyuan_note",
-    "appDir": "/opt/SiYuan/resources",
-    "confDir": "/home/lee/github/siyuan_note/conf",
-    "dataDir": "/home/lee/github/siyuan_note/data",
+    "homeDir": "C:\\Users\\HUAWEI",
+    "workspaceDir": "D:\\github\\siyuan_note",
+    "appDir": "C:\\Program Files\\SiYuan\\resources",
+    "confDir": "D:\\github\\siyuan_note\\conf",
+    "dataDir": "D:\\github\\siyuan_note\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -500,7 +582,7 @@
     },
     "uploadErrLog": false,
     "disableGoogleAnalytics": false,
-    "downloadInstallPkg": true,
+    "downloadInstallPkg": false,
     "autoLaunch2": 0,
     "lockScreenMode": 0,
     "disabledFeatures": []
@@ -1228,7 +1310,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.1.13 std/linux",
+      "apiUserAgent": "SiYuan/3.1.15 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1238,13 +1320,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 2,
+    "treeCount": 21,
     "cTreeCount": 100,
-    "blockCount": 15,
+    "blockCount": 738,
     "cBlockCount": 5000,
-    "dataSize": 19988780,
+    "dataSize": 24664653,
     "cDataSize": 104857600,
-    "assetsSize": 6556305,
+    "assetsSize": 10141593,
     "cAssetsSize": 104857600
   },
   "api": {
