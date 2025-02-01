@@ -1,8 +1,8 @@
 [
   {
-    "rootID": "20241217195007-8gznpvu",
+    "rootID": "20250106141944-3wixivd",
     "icon": "",
-    "title": "CoinTrader"
+    "title": "DriveVLM"
   },
   {
     "rootID": "20241223142222-j8jlyqo",
@@ -10,19 +10,19 @@
     "title": "SHFE极速"
   },
   {
-    "rootID": "20241223142148-8e6okn3",
+    "rootID": "20241217195007-8gznpvu",
     "icon": "",
-    "title": "CoinTrader执行流程"
+    "title": "CoinTrader"
   },
   {
-    "rootID": "20241227151941-qpd0ton",
+    "rootID": "20250121163247-7lt878k",
     "icon": "",
-    "title": "预测专业业务规划"
+    "title": "深蓝学院-自动驾驶预测与决策规划"
   },
   {
-    "rootID": "20241227083613-q7dcu85",
+    "rootID": "20250120084635-klnl1ri",
     "icon": "",
-    "title": "vLLM：大模型推理"
+    "title": "面向开发者的LLM入门课程-LLM-V1.0"
   },
   {
     "rootID": "20241224161922-vbxmsty",
@@ -30,29 +30,14 @@
     "title": "李宏毅 一天搞懂深度学习"
   },
   {
-    "rootID": "20241228000549-c4okrjp",
+    "rootID": "20250116091639-0i19xcy",
     "icon": "",
-    "title": "统计学习方法概论"
+    "title": "人员优化实录"
   },
   {
-    "rootID": "20241225140901-3jttumd",
+    "rootID": "20250113101920-gt8wt6l",
     "icon": "",
-    "title": "长城汽车"
-  },
-  {
-    "rootID": "20241227160704-en3zv5f",
-    "icon": "",
-    "title": "符号表"
-  },
-  {
-    "rootID": "20241220170504-0ysa1ty",
-    "icon": "",
-    "title": "tensorrt介绍"
-  },
-  {
-    "rootID": "20241221112345-khmx0ws",
-    "icon": "",
-    "title": "tensorrt转onnx模型"
+    "title": "世界模型"
   },
   {
     "rootID": "20241223162649-w3iew6g",
@@ -60,14 +45,94 @@
     "title": "数据闭环"
   },
   {
-    "rootID": "20241224131451-nieztbn",
+    "rootID": "20241227083613-q7dcu85",
     "icon": "",
-    "title": "阳光电源"
+    "title": "vLLM：大模型推理"
   },
   {
-    "rootID": "20241220095223-avm56hc",
+    "rootID": "20241227151941-qpd0ton",
     "icon": "",
-    "title": "零拷贝技术"
+    "title": "预测专业业务规划"
+  },
+  {
+    "rootID": "20250119160730-g7vncxc",
+    "icon": "",
+    "title": "我看见的世界"
+  },
+  {
+    "rootID": "20250119160724-pqqap3s",
+    "icon": "",
+    "title": "金钱博弈 : 重振韩国第一银行内幕"
+  },
+  {
+    "rootID": "20250109085853-k0sjoen",
+    "icon": "",
+    "title": "奇瑞"
+  },
+  {
+    "rootID": "20241225140901-3jttumd",
+    "icon": "",
+    "title": "长城汽车 [x]"
+  },
+  {
+    "rootID": "20241231141357-meb5hmj",
+    "icon": "",
+    "title": "开源的GPU管理平台，run.ai"
+  },
+  {
+    "rootID": "20250110141432-8vwcep7",
+    "icon": "",
+    "title": "blog"
+  },
+  {
+    "rootID": "20241231133851-vrv8tdm",
+    "icon": "",
+    "title": "数据采集"
+  },
+  {
+    "rootID": "20250110140224-agewjci",
+    "icon": "",
+    "title": "具身智能综述"
+  },
+  {
+    "rootID": "20250110135850-i70fbgv",
+    "icon": "",
+    "title": "AI Agent"
+  },
+  {
+    "rootID": "20250113133511-eknhde8",
+    "icon": "",
+    "title": "AI数字人"
+  },
+  {
+    "rootID": "20250114165856-2pzijth",
+    "icon": "",
+    "title": "江淮"
+  },
+  {
+    "rootID": "20241221112345-khmx0ws",
+    "icon": "",
+    "title": "tensorrt转onnx模型"
+  },
+  {
+    "rootID": "20241220170504-0ysa1ty",
+    "icon": "",
+    "title": "tensorrt介绍"
+  },
+  {
+    "rootID": "20241227160704-en3zv5f",
+    "icon": "",
+    "title": "符号表"
+  },
+  {
+    "rootID": "20241228000549-c4okrjp",
+    "icon": "",
+    "title": "统计学习方法概论"
+  },
+  {
+    "rootID": "20241124183048-jaxuhn5",
+    "icon": "",
+    "title": "信息简报_时空联合规划"
   },
   {
     "rootID": "20241220132321-spklfse",
@@ -75,33 +140,23 @@
     "title": "GPU"
   },
   {
-    "rootID": "20241217192701-cexlgme",
+    "rootID": "20241223142148-8e6okn3",
     "icon": "",
-    "title": "VirtualBox"
+    "title": "CoinTrader执行流程"
   },
   {
-    "rootID": "20241217093623-ezy8c9z",
+    "rootID": "20241224131451-nieztbn",
     "icon": "",
-    "title": "WSL"
-  },
-  {
-    "rootID": "20241219084837-puu4j2k",
-    "icon": "",
-    "title": "TI M0 CCS"
-  },
-  {
-    "rootID": "20241124182833-kovwzpx",
-    "icon": "",
-    "title": "excalidraw测试"
+    "title": "阳光电源 [x]"
   },
   {
     "rootID": "20241124183550-gcgis65",
     "icon": "",
-    "title": "未命名"
+    "title": "自动驾驶决策过程_丁文超"
   },
   {
-    "rootID": "20241124183048-jaxuhn5",
+    "rootID": "20241220095223-avm56hc",
     "icon": "",
-    "title": "未命名"
+    "title": "零拷贝技术"
   }
 ]
