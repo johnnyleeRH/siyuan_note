@@ -150,7 +150,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "D:\\github\\siyuan_note\\temp\\pandoc\\bin\\pandoc.exe",
+    "pandocBin": "/home/lee/github/siyuan_note/temp/pandoc/bin/pandoc",
     "markdownYFM": false,
     "pdfFooter": "%page / %pages",
     "docxTemplate": "",
@@ -245,98 +245,97 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1742814469414",
+                      "activeTime": "1739941638407",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250303155757-k5x8199",
+                        "blockId": "20250205201851-8tq614g",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250303155750-rx07cfq",
-                        "rootId": "20250303155757-k5x8199"
+                        "notebookId": "20250201094650-8734nzw",
+                        "rootId": "20250205201851-8tq614g"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "综述：从DevOps-\u003eMLOps-\u003eLLMOps"
+                      "title": "Building LLMS from scratch"
                     },
                     {
-                      "active": true,
-                      "activeTime": "1742976814527",
+                      "activeTime": "1739951205812",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250319090717-mlb2h94",
+                        "blockId": "20241227151941-qpd0ton",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250311213803-w1rvni3",
-                        "rootId": "20250319090717-mlb2h94"
+                        "notebookId": "20241223162646-1iyl4qg",
+                        "rootId": "20241227151941-qpd0ton"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "VAD"
+                      "title": "预测专业业务规划"
                     },
                     {
-                      "activeTime": "1742976781328",
+                      "activeTime": "1739941637655",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250322132907-z15c0g9",
+                        "blockId": "20250201094653-2ysnn1b",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250315134408-ajhq0p1",
-                        "rootId": "20250322132907-z15c0g9"
+                        "notebookId": "20250201094650-8734nzw",
+                        "rootId": "20250201094653-2ysnn1b"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "2025.3.22 地球发烧动态平衡"
+                      "title": "NVIDIA Cosmos"
                     },
                     {
-                      "activeTime": "1742976786091",
+                      "activeTime": "1739941640487",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250315134411-muq4q7v",
+                        "blockId": "20250208231124-6w0s5om",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250315134408-ajhq0p1",
-                        "rootId": "20250315134411-muq4q7v"
+                        "notebookId": "20250201094650-8734nzw",
+                        "rootId": "20250208231124-6w0s5om"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "2025.3.15 植树段落问题"
+                      "title": "Andrej Karpathy"
                     },
                     {
-                      "activeTime": "1742976796128",
+                      "activeTime": "1740444010961",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250227161248-t4gmwe0",
+                        "blockId": "20241227083613-q7dcu85",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250227161201-0nakm1e",
-                        "rootId": "20250227161248-t4gmwe0"
+                        "notebookId": "20241223162646-1iyl4qg",
+                        "rootId": "20241227083613-q7dcu85"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "决策规划模型输入依赖"
+                      "title": "vLLM：大模型推理"
                     },
                     {
-                      "activeTime": "1742976798192",
+                      "activeTime": "1743146326557",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241231133851-vrv8tdm",
+                        "blockId": "20250225084034-y4k9gbo",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20241231133843-3adz66a",
-                        "rootId": "20241231133851-vrv8tdm"
+                        "notebookId": "20241217093428-56ba6b3",
+                        "rootId": "20250225084034-y4k9gbo"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "数据采集"
+                      "title": "nuplan"
                     },
                     {
-                      "activeTime": "1742976805000",
+                      "activeTime": "1743146594917",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250326095628-iyoiwsw",
@@ -351,19 +350,20 @@
                       "title": "端到端"
                     },
                     {
-                      "activeTime": "1742953251516",
+                      "active": true,
+                      "activeTime": "1743153088797",
                       "children": {
-                        "action": "cb-get-all",
-                        "blockId": "20250311213936-cuy72ah",
+                        "action": "cb-get-scroll",
+                        "blockId": "20250328171128-g0h3zuu",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250311213803-w1rvni3",
-                        "rootId": "20250311213813-qvj8sdg"
+                        "notebookId": "20250119160648-xe806cv",
+                        "rootId": "20250328171128-g0h3zuu"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "AI在汽车中的应用"
+                      "title": "未命名"
                     }
                   ],
                   "height": "",
@@ -539,7 +539,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a3c58965d5b5f4784b21cafd113b752e3a2f9c51f92252cbfe7d1f0fbee13bdf8b562ac6f9c32cc8423600d4b29e38a9c4e1c2ea980e2c3f6f3a0b655a5a76025b9ca7daa54d1918e536a2c0282db65dc2fcf6a979bf3ef9a0791395b5b2beb7751c92fd64e8042a6e1cc3b6c0864ff72517e27dd295a6af0fad42b2210e81f1bfe520a7df1b1e6f38190fc7566878c11f3726ea9bde758418e7156998e4ace23b381fbcf8284a246a594ef4d30c6db9d44c09b58a6d69611fe883284b8efa6e0508fefe2abfe846fb71b9885d193c7612aa49902809745107408c9f73a4ce52a733779362af98d5867c2357566b51f31e3fca589c48c5c7c879ebaae1192c488100b22e5e5abf07045f90eb7d612369012de0ad9b523932a05ae96948acaa470304661337776252b92cb3cef062cf49db2347cec9f495c13a148a23532af17c63ae899c3fca54c2de117d0545773b957ea38aa5869e47167e1e837cfe4043a458dad27652bfa71ef5d328ae6790a34776ba8fc8434c1fee80b079de7eca4d7400c9c0dfffd57133b8ec5001093762f90c4a6bad98a9b8d45f209a50bee9f642365b5fdfd49be5a237147742b328d7781c051cf9fd77382dcb0ea3e4e69a6463d9e5ec3045744dc44275d8c8f9d3ca56c3f4e53197b9affba1b840dfbe88254060c797326505b84dbc45e30bb1d01f077c35fdba8c9eb8fefc3c2e8a44a6d057e9f3270ee2d4e1366690eb54385e3bef075072f7c4a33bb5f8902d436dfd2e7b84abf39b2bcff7d69b023303139b3fcad12b3e3b35153bd25256fbe666194d2ee80c679702066b9894a4dbbb9c4e0c9a4522a7ce5b74c54dc787d08ef9057a1c3004aa8c5429d8afb2ab2eaa6dc73f2fbd446af68d571474649d50752e1018f1a7868c65afc10118f738a183d6503cbce8d68468ca247a43f1862a6d3e89a285956cd71383fa159b80f78248162ef583312026ce0007450a12632b433894f5998f775fe219e0b6f4ee741dfc80aebc3d07bfcd18a008db734fb8f7954744719580c2d664fc05708eed87e3775f8fdc56be5c3ddc84989566475f6da24794aeb2c4ab6de04e70f81a2fbad73e95af1f9766692575142d85bd889599b16cf3b5cbfcd7e3c73846a8679b3b4ce9032049f63160d6b6f120caed7909b6559b36b0996ed2b983d9650883567d9a8d58bac470a7bec898d17e9364a48225344f6a5899d305440ccb735e6e89c45ceb576d34755d812fe38ec0bebbee04f2edf8badc6a2525fc769503195578fd68c122cec02ecb4abeee3abe0cdba61b1b9ccfc32d2379cc88f5b824a9757d68964f114b9c8a0442834c1788d1f0a096da9b7147355eba48375a69c81a4dcc046f9959a19874c41e0c0e4f70bc7762454c110ef5592cc09394192055387715f2d6ccfb813071255bef8f4d77934d625b8fcef01308caecfee62ffbf89537191d891323abc34bb27d819a4392ec2634c4e6134e2379377c5a454bfb5ad9784d523da2ab9044535012937c0f9e5fb51ad5de4f5ff29137851980dbc7bcd9010208b8d50f981582582349043691d7ab56925bd580021895698a7173bd4dbc0e53e3b94b8d50377f1a76b2d80c356bd702be93d25c2714c0c64a44628abfa3817b8dfd960c7df0a135b89439f59bb4bd04dce827642a3a6df97d4b9fc3c86c2bd321a5c09e6d7b55281b6b81cd240885adf207d33c3fa50807523eead0d925ebdf52bfeed2be662ca46c4e31322ea74e45dfb3d9a1a6b138c33fc4fd191e9fc72a3d037a844972654e4b9402be8bb6cfdaf0d78071ec8dd3775232c5a46ae61b2b437854834ab7ab9ed0fbdf0f92c066ccba0cd1b247ae43834acf8d0fe5a526b19f4331f02debb8976cd32c06ba4070357e7b9b66ea1594a7ed4020c598a8c52d47911f2264690d727afb8b9b1b00c5f797faa6ce59600d72035cbe6a1eb8d28336ec811fadb9808a90145b3ce5c4d21ad8933139f1db05f6f06b1e5d27fb48ef661dcca97982a552aa53fa13809fafb236368cdcae38edddbd005069308336fc81e1931d1508daddc015087ecfa8203917189f91da4cbb858a595bcfeec974bdf838f608c148f8f2ce4228fc109873918fa08085622a3183da79cf106401f026966f5ac808823d19f2518711f2beb1be0b934fa6369144afcda6215dd918d36a079d8b4d0a86b4419f722ff00f1f86982ad0f11f829f5f561860bbba43a5a840f67dbec2f0a86b9ef87d1701f9bf08e1b7af60777bc4c8a947350ccea0e1c575fddba755986b91157f8037224428822533adf66ebfeff92850520cc4e6d607c9dd583b1b920766729547e93a759ebb9d9f2fb8107a48c15da35880a93879c9c891d617a6fee9878a5ef1ece15b19f0ea2937f427a5517909d1aa2f56f011656534b5009027de401788ee0d7b757651be6c9b71462e212d9e547de958ffb04a55b87b51c12d32fc8ab91077fa7c20ad2ed4f3f2c29ed7d3ce7d75fca138e771c1a409172dfcef6065cb319f67b49d1d56d3d6815820098477ec52fa078ba832da15ae29175c99483332abe482a8a5df01665e87ab1b0412bb34b948828c6a6dae231eb078eafd69fb12fb411f260f83228ba6ff33f67f65805516204ca3c5fe36a741477ce39d5bc219543ff864e79218c8d9948d08a2a402becde170a75bb8fe04d1867270d690a3fc7c2e2cdef019448ebac5b11a26eb93cfb13ae49944b724b63760e175f99a637955a7fa51b68a3df071053e9b91ec2d30db13a1f71f0847e0779edb3dcb042077612ac8a5c64876b8a0a111499aa391036cf4261a465c2b04c5245bc6eb95707d6bfe8b5f4473154e5cf8e4f90e9e4bd24e141fb06ca655a621232120c9a6c020d3f971fe88f18f9db25592f6d28a40d7808ff5ca41bee467f91f8ad5d1bfaa4c8a7814dcaecae6248a2feb2509d568e15074645df264b5e3588e9ca54d4fae6d5a800ac073d5bc8d9bf101bde471f9b2246bda39b7ea999e2712f1ddf06ec4b6ddcd6117ad9c2e8de131364778aa6ce9472c9e6a4bcb234e5ca392091896377231e48af5339c69b348d38cbef092a54574585fe3dc6618da0ac3d36eee096f50d2a4411226dd8f256849ce63c71547303d7ed85b0ef0857aed3090968369b8c869bf3c50c265badfc54ab11f8e271e4bab8c97208d537080233e367023949901b912cf0c1df930c106deead95edd7e3c9e560e1eca22b1d77ed14724cc254",
+  "userData": "d716d5d6812229ac440f08261821941a3c58965d5b5f4784b21cafd113b752e3a2f9c51f92252cbfe7d1f0fbee13bdf8b562ac6f9c32cc8423600d4b29e38a9c4e1c2ea980e2c3f6f3a0b655a5a76025b9ca7daa54d1918e536a2c0282db65dc2fcf6a979bf3ef9a0791395b5b2beb7751c92fd64e8042a6e1cc3b6c0864ff72517e27dd295a6af0fad42b2210e81f1bfe520a7df1b1e6f38190fc7566878c11f3726ea9bde758418e7156998e4ace23b381fbcf8284a246a594ef4d30c6db9d44c09b58a6d69611fe883284b8efa6e0508fefe2abfe846fb71b9885d193c7612aa49902809745107408c9f73a4ce52a733779362af98d5867c2357566b51f31e3fca589c48c5c7c879ebaae1192c488100b22e5e5abf07045f90eb7d612369012de0ad9b523932a05ae96948acaa470304661337776252b92cb3cef062cf49db2347cec9f495c13a148a23532af17c63ae899c3fca54c2de117d0545773b957ea38aa5869e47167e1e837cfe4043a458dad27652bfa71ef5d328ae6790a34776ba8fc8434c1fee80b079de7eca4d7400c9c0dfffd57133b8ec5001093762f90c4a6bad98a9b8d45f209a50bee9f642365b5fdfd49be5a237147742b328d7781c051cf9fd77382dcb0ea3e4e69a6463d9e5ec3045744dc44275d8c8f9d3ca56c3f4e53197b9affba1b840dfbe88254060c797326505b84dbc45e30bb1d01f077c35fdba8c9eb8fefc3c2e8a44a6d057e9f3270ee2d4e1366690eb54385e3bef075072f7c4a33bb5f8902d436dfd2e7b84abf39b2bcff7d69b023303139b3fcad12b3e3b35153bd25256fbe666194d2ee80c679702066b9894a4dbbb9c4e0c9a4522a7ce5b74c54dc787d08ef9057a1c3004aa8c5429d8afb2ab2eaa6dc73f2fbd446af68d571474649d50752e1018f1a7868c65afc10118f738a183d6503cbce8d68468ca247a43f1862a6d3e89a285956cd71383fa159b80f78248162ef583312026ce0007450a12632b433894f5998f775fe219e0b6f4ee741dfc80aebc3d07bfcd18a008db734fb8f7954744719580c2d664fc05708eed87e3775f8fdc56be5c3ddc84989566475f6da24794aeb2c4ab6de04e70f81a2fbad73e95af1f9766692575142d85bd889599b16cf3b5cbfcd7e3c73846a8679b3b4ce9032049f63160d6b6f120caed7909b6559b36b0996ed2b983d9650883567d9a8d58bac470a7bec898d17e9364a48225344f6a5899d305440ccb735e6e89c45ceb576d34755d812fe38ec0bebbee04f2edf8badc6a2525fc769503195578fd68c122cec02ecb4abeee3abe0cdba61b1b9ccfc32d2379cc88f5b824a9757d68964f114b9c8a0442834c1788d1f0a096da9b7147355eba48375a69c81a4dcc046f9959a19874c41e0c0e4f70bc7762454c110ef5592cc09394192055387715f2d6ccfb813071255bef8f4d77934d625b8fcef01308caecfee62ffbf89537191d891323abc34bb27d819a4392ec2634c4e6134e2379377789c048ebb6a25aebdcd58330344b90680beaee83820c3ff1f1efebba78386147fd8cacc17650635834de297a08e90ee8fe1a8484b43d88b08969fd4af76ac19a87a758b2a84ac45d9e7a1849b3d8bd6bf884c8af00da0a4ba21a6a8b8c6d0b528378bfa1b340f982b5f17724b71d47e30bbd28656b0af14235323541a1020e9e2fdbf85e0a7cd499d9084fa0f70e5c7c9baef6d086121cd3204afb3cb8d364503bfd2633aa2eeb9f7dbd4c891169c42607df3e926f01e92605d68b424d9acef16303d085ee1c30bf7475afb123862d9f60056f3d9897556e85152036fdfdb10275773231387cb801adcc38acaff5c485547910df60370b2e5f46eff7e68ff61f46fa4208bb882cc43d062ca435e99850618c219316dda633e167cdb375c51646ecc814ab9b18053685bb792bbd0a0bcc218924029f2906ebb7779ea59f5e5a39c084767677b38904b0862b57ee006ba8b730cda3b247554be482b68d9348d4f23a26e9a93d387904932a91f1f61596f7ad0e9c5ee4d9639c3483a6859adcd899352a3b5e4e32b28c9b135d8950999315dc84d890020548e0e5c52821ad09a648e2c72c98197f6faf9f79c5f4821963ac9a750291f26c919d07cab2c40cf71e4ece078391cfdb69b2cc24efea84aadc8392867da25c7810d3b90e914acaae5d36d5e391f116236a11fa310446ff532cd7db1ec9b3cfcde59947156822cc781708d60624719f7cd3bfa1573cf0541321cdf9e6becefc113558a3aaa77dcadc9e7a45a870089e6033a58ca876e0fe0a166b2c2896984bf2f5554a5783d6f34513e08f6a6d0972c25ed409fbaf601f8fb6d93a749069790872d0738c662c35feecffd408920a675311b4fd5df8fae8bb644a1cbbebec7d36b5ca1d591a78623fada862f1c068f3273e06f8ca08d66b771c9a14ec978802bc9af51530de318428484cbeed8703f0501d49b33ddcca023ff6338262875b082697243575967bca1ac2c888fdb03cc6e734a463f2da3d69d45e559c120b26e2c4a65f09c988410e39aa00ef7a2edc011bd9261ec78109b13370be41136274bd8adaa5cdede1b7680df44000d7ea605bbd1e90617a2762c3ed2722f25afbeed790fb99d9a4fc8c6197552403d3b6ddc4779098186e1c2f9cf370b34d452c4ed3a5d9589bc080dd11957b1edc3abf1231ac78927f73e9a7c67af6dc88408359c1a66caaf56ce75ca832ccb2901d445e31457604dac368af8e07482ea420fde182990d852f71e28b80e7e5e1f4ab1e24e18ab4075b7487d36e44146e6871dc76bb96495b85c181d5c8238c54072a21df2be252a52a43a4c229051a57697da8b91394acb7931a74dabc7b666f2dce1cd6bd72c00b7d4f1b25f0682bbbef8fd68a643754b528afb065cbff3761cfbfd3d416ae2a306a99db9cf37269d91d8afe1055cd60d1ea4205959460bf7b0375a71b43e443ee30b999808fe1bd3c0e44bcc8c7fd41b263d049b2c5494b7e066b9d325fddf0493c5b72b2f248dd02c7883cdbd97243e5c06d2a12d50fe78a48e3dae4b281fab16500bcedc38511ded6d193d041c01d0f9294f2a681999fd6c12c83aa3f762ab77bb619d2bd0a9c5b8a836e87c0844448af0447f4b796a208d45fba18b09f278c8ce8f432af673425bbc496eb31f88835f61873a7d63d9c08532908fd366ae274ff06efd6f178aab8a79012ab1be550d1a47a98f1e3bd3e0e84efd59a9fcf7bff2bdff2b95147ad0",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -547,35 +547,26 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.56.1",
-    "10.78.7.60",
-    "169.254.79.210",
-    "169.254.196.204",
-    "169.254.194.48",
-    "169.254.183.29",
+    "10.78.8.79",
+    "172.17.0.1",
     "[::1]",
-    "[fe80::d12b:a472:ab95:3eb]",
-    "[fe80::6878:6f37:64b6:bd09]",
-    "[fe80::e32f:e742:b9d3:98f5]",
-    "[fe80::c008:b6d2:b1ba:f83]",
-    "[fe80::9e87:bf25:cfdc:a7af]",
-    "[fe80::7645:2e59:fc27:7bff]"
+    "[fe80::3a79:5cd3:637a:9867]"
   ],
   "accessAuthCode": "",
   "system": {
-    "id": "9663f9e9-d773-458e-a107-5ee81be86af1",
-    "name": "LAPTOP-D9OB2PE4",
+    "id": "812c8b794584488cb7ce6ef76074dd66",
+    "name": "lee",
     "kernelVersion": "3.1.15",
-    "os": "windows",
-    "osPlatform": "Microsoft Windows 11 Home China",
+    "os": "linux",
+    "osPlatform": "Kylin",
     "container": "std",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "C:\\Users\\HUAWEI",
-    "workspaceDir": "D:\\github\\siyuan_note",
-    "appDir": "C:\\Program Files\\SiYuan\\resources",
-    "confDir": "D:\\github\\siyuan_note\\conf",
-    "dataDir": "D:\\github\\siyuan_note\\data",
+    "homeDir": "/home/lee",
+    "workspaceDir": "/home/lee/github/siyuan_note",
+    "appDir": "/home/lee/siyuan-3.1.15-linux/resources",
+    "confDir": "/home/lee/github/siyuan_note/conf",
+    "dataDir": "/home/lee/github/siyuan_note/data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -1312,7 +1303,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.1.15 std/windows",
+      "apiUserAgent": "SiYuan/3.1.15 std/linux",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1322,13 +1313,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 50,
+    "treeCount": 24,
     "cTreeCount": 100,
-    "blockCount": 2456,
+    "blockCount": 1159,
     "cBlockCount": 5000,
-    "dataSize": 29615262,
+    "dataSize": 41125993,
     "cDataSize": 104857600,
-    "assetsSize": 14786424,
+    "assetsSize": 26377061,
     "cAssetsSize": 104857600
   },
   "api": {
